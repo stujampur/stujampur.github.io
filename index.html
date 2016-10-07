@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<div class="header">
+    <h1>{{ site.name }}</h1>
+    <ul>
+        {% for item in site.data.navigation %}
+        <li>
+            <a href="{{ item.url }}">{{ item.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+<div class="description">
+    <h2>{{ site.description }}</h2>
+</div>
+<br>
+<div class="blog">
+    <h1>Blog Posts</h1>
+    <ul>
+        {% for post in site.posts %}
+        <li>
+            <span class="date">{{ post.date | date: '%Y %b %d' }}</span> - <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+<div align ="right">
+  <div class="twitter">
+    <a class="twitter-timeline" data-width="275" data-height="500" data-link-color="#f88017" href="https://twitter.com/stujampur">Tweets by stujampur</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
+</div>
+<div class="footer">
+  <p>|&copy; Stuart James Purcell | Design: <a href="http://mingkim.github.io/">Micah Cowell</a>|</p>
+</div>
+<!--
+<div class="music">
+    <h1>Now Playing:</h1>
+    <a href="http://www.last.fm/user/getmicah"><span id="nowPlaying"></span></a>
+</div>
+<script src="/assets/js/main.js"></script>
+-->

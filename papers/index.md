@@ -33,7 +33,7 @@ A selection of publications and presentations
 <br>
 <br>
 
-‘Think of Me as a Software Application!: Douglas Coupland and Obsolescence
+‘Think of Me as a Software Application!: Douglas Coupland and Obsolescence'
 <br>Information Overload, University of Edinburgh, September 2014   
 <br>
 <iframe src="https://docs.google.com/presentation/d/1zPQLwLgCURcje9vE2GtrArs5wFRhjYxsBJP9RaMLM2U/embed?start=false&loop=false&delayms=3000" frameborder="0" width="400" height="300" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>   

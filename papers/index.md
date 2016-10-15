@@ -21,7 +21,8 @@ A selection of publications and presentations
 
 ‘Resonant Connections: McLuhan and the New Literary Practice’
 <br>The Toronto School: THEN NOW NEXT, University of Toronto, October 2016   
-<br>[forthcoming]   
+<br>    
+<iframe src="https://docs.google.com/presentation/d/12ebTUQqkVxcKlrtq5Zd5Z5G6OOGwfitWmlVjmEQ8uOc/embed?start=false&loop=false&delayms=3000" frameborder="0" width="400" height="300" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <br>
 <br>
 

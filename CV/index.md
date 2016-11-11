@@ -35,6 +35,9 @@ Current as of October 2016. Also available as a [**PDF**]({{ site.url }}/assets/
 **FUNDING AND AWARDS**   
 <br>
 
+2016	**Outstanding Paper Award** for best postgraduate paper, ‘Resonant Connections: McLuhan and the New Literary Practice’, ‘The Toronto School: THEN | NOW | NEXT’, University of Toronto, October 2016   
+<br>
+
 2016 	  **Principal’s Early Career Mobility Scheme at the University of Glasgow** funding to travel to Columbia University to help enhance and embed links between the group for <a href="https://xpmethod.github.io">Experimental Methods in the Humanities at Columbia</a> and the group at <a href="https://xpmgla.github.io">Glasgow</a> and, more widely, between Columbia and Glasgow Universities   
 <br>
 
@@ -92,7 +95,7 @@ My role involved tutoring classes of twelve students on the English Literature 2
 **EMPLOYMENT HISTORY**   
 <br>
 
-Oct 2012-Present	**Mentor - Focus West, University of Strathclyde (Glasgow)**   
+Oct 2012-Jul 2016	**Mentor - Focus West, University of Strathclyde (Glasgow)**   
 <br>
 
 My role involves mentoring groups of twelve S3 and S4 (14-16 years old) pupils as part of the Focus West widening access/participation in Higher Education project with schools from areas with low progression rates, presenting, carrying out activities with pupils   

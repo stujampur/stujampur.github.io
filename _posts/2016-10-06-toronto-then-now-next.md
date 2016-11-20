@@ -3,7 +3,7 @@ layout: post
 title: The Toronto School&#58 THEN NOW NEXT
 tag: conference
 ---
-
+<br>
 I am very pleased to be attending and speaking at <a href="http://thetorontoschool.ca/">**The Toronto School: THEN NOW NEXT**</a> conference at the University of Toronto from the 13th-16th of October. This international conference assembles a unique group of Canadian and international interdisciplinary experts on media, communication, and culture - including researchers from humanities and social sciences, artists and leading public thinkers. I'll be talking about Marshall McLuhan and new literary practice in this esteemed company. Here's the abstract:   
 <br>
 **Resonant Connections: McLuhan and the New Literary Practice**
